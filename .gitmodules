@@ -1,0 +1,3 @@
+[submodule "ext/youtube-search"]
+	path = ext/youtube-search
+	url = https://gist.github.com/stvar/f57e9792c3dc49fab2690247d6ee74de
